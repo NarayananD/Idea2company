@@ -1,0 +1,37 @@
+clicking button ==> 3 windows
+
+
+objectname.getwindowhandle();
+
+ ==> Parent window
+
+
+driver.getwindowhandles(); 
+
+
+driver.set of window(not allow dupicate)
+
+foreach loop(driver.swithc
+
+
+String
+
+ 
+
+
+driver.swithcto().windows(lastwindowname);
+
+Method decalration (), Method Implements
+
+Return type of Window handling --> String
+Return type of FindElements  --> List of webElement
+
+Find Element always give WebElement
+
+Xpath Axes () --> Following/ preceding concepts
+
+Toogle, Frames, Button, Alert, window
+
+COllection  --> List, set, map, HashMap, Array List
+
+
